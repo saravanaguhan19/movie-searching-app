@@ -1,6 +1,6 @@
 import "./App.css";
 import MovieCard from "./components/MovieCard";
-import NavBar from "./components/NavBar";
+import NavBar from "./components/Navbar";
 import MainRoutes from "./routes/MainRoutes";
 
 function App() {
